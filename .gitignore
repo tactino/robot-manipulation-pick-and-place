@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.claude/
+
+# Course handout (competition rules), not ours to redistribute
+*.pptx
+
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
