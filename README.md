@@ -5,7 +5,7 @@ A ROS 2 package that drives a UR arm with a wrist-mounted RealSense camera and a
 - Task 1: pick green, red and yellow blocks out of a bin and stack nine of them into three piles by colour.
 - Task 2: pick red blocks off a rotating turntable and keep stacking them into one column.
 
-Course project for *Interdisciplinary Project Training: Robot Intelligent Manipulation* (Spring 2026), done by Zuo Gou and Jiajie Zhang (张家杰). Instructor: Xiang Li.
+Course project for *Interdisciplinary Project Training: Robot Intelligent Manipulation* (Spring 2026), done by [Zuo Gou](https://github.com/tactino) and [Jiajie Zhang](https://github.com/z007-jj) (张家杰). Instructor: Xiang Li.
 
 <p>
   <img src="report/img/1.jpg" height="320" alt="Task 1: picking a green block out of the bin">
