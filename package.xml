@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>Pick and place workflow for color-sorted cube stacking</description>
   <maintainer email="185467628+tactino@users.noreply.github.com">Zuo Gou</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MIT</license>
 
   <url type="repository">https://github.com/tactino/robot-manipulation-pick-and-place</url>
 
