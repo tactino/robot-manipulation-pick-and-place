@@ -4,8 +4,13 @@
   <name>pick_and_place_task</name>
   <version>0.0.0</version>
   <description>Pick and place workflow for color-sorted cube stacking</description>
-  <maintainer email="zuogou@todo.todo">zuogou</maintainer>
+  <maintainer email="185467628+tactino@users.noreply.github.com">Zuo Gou</maintainer>
   <license>TODO: License declaration</license>
+
+  <url type="repository">https://github.com/tactino/robot-manipulation-pick-and-place</url>
+
+  <author email="185467628+tactino@users.noreply.github.com">Zuo Gou</author>
+  <author email="274142163+z007-jj@users.noreply.github.com">Jiajie Zhang</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>ament_cmake_python</buildtool_depend>
