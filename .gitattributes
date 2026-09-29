@@ -1,0 +1,3 @@
+# The scripts run on the robot's Ubuntu machine through their
+# "#!/usr/bin/env python3" line, so keep LF endings even on Windows clones.
+*.py text eol=lf
