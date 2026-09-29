@@ -148,3 +148,7 @@ The main nodes also take `show_debug_window:=true` to open an OpenCV debug windo
 ├── CMakeLists.txt
 └── package.xml
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
